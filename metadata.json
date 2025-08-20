@@ -1,0 +1,6 @@
+{
+  "name": "CookMate AI",
+  "description": "An AI-powered cooking assistant that suggests recipes from your ingredients and provides step-by-step instructions with cooking animations.",
+  "prompt": "",
+  "requestFramePermissions": []
+}
